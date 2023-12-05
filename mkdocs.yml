@@ -1,0 +1,5 @@
+site_name: od2t
+theme:
+  name: material
+nav:
+  - Welcome: 'index.md'
